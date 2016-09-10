@@ -274,6 +274,10 @@ str.match(/\w+(?!\.)\b/g); // [ 'Smith', 'Doe' ]
 ```
 
 
+# Good References
+- [Regular Expressions - Javascript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+
 
 
 
